@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Becoming Data Visualiser<br>🍀 Done my Master's in Data Science from Ulster University <br>🏫 Done my Bachelor’s in FinTech from Gujarat University <br>🌱 I’m currently learning Full Stack Devlopment and Data Science <br>⚡ Fun fact: I want to Become Full stack developer with the knowledge of how to play with Data
+🔭 I’m currently working on Projects which represent my FinTech, Data Sciense and Artificial Inteligence knowledge 😊<br>🍀 Done my Master's in Data Science from Ulster University <br>🏫 Done my Bachelor’s in FinTech from Gujarat University <br>🌱 I’m currently learning Full Stack Devlopment and Data Science <br>⚡ Fun fact: I want to Become Full stack developer with the knowledge of how to play with Data
 
 
 ## 🌐 Socials:
